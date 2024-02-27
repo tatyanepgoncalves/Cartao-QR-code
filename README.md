@@ -1,7 +1,26 @@
-<h1 align=center> QR code component </h1>
-<>
+<h1 align="center"> Cartão QR Code ℹ️</h1>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licenca">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
+<img align="center" src="images/previa.png">
+
+## 🚀 Tecnologias
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML
+- CSS
 
 
 
-# Cartao-QR-code
- 
+
+## 💻 Projeto
+Projetos retirados do [Frontend Mentor](https://www.frontendmentor.io/home).
+
+
+
+
+Feito com ❤️ por [Tatyane Gonçalves](https://github.com/tatyanepgoncalves)
